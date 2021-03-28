@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>971748565529-i3ps8043fj5p0r6f6qvf99m2jp2jcfdc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.971748565529-i3ps8043fj5p0r6f6qvf99m2jp2jcfdc</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>971748565529-14rpmk2f5tg5ef7oo91f71jnta6rqpld.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDioRwEGns4YxOiv9o99xWctVRV1hEYP9M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>971748565529</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.admin.rakshak</string>
+	<key>PROJECT_ID</key>
+	<string>rakshak-7a11a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rakshak-7a11a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:971748565529:ios:1fdac4da41a50d55c60088</string>
+	<key>DATABASE_URL</key>
+	<string>https://rakshak-7a11a.firebaseio.com</string>
+</dict>
+</plist>
